@@ -53,8 +53,6 @@ else:
             response = st.write_stream(stream)
         st.session_state.messages.append({"role": "assistant", "content": response})
 
-```
-
 ### 💡 주요 변경 사항:
 
 * **st.title & st.write**: 앱의 제목과 설명을 한국어로 번역했습니다.
