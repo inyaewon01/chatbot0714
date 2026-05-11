@@ -1,6 +1,3 @@
-제공해주신 스트림릿(Streamlit) 코드를 한국어 버전으로 변경해 드립니다. 주요 텍스트와 안내 문구를 자연스러운 한국어로 수정했습니다.
-
-```python
 import streamlit as st
 from openai import OpenAI
 
